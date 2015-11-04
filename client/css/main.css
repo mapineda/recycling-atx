@@ -1,1 +1,27 @@
-main.css
+* { 
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif; 
+}
+
+.main-img {
+	width: 100%;
+}
+
+.neighborhood-guide h2 {
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.neighborhood-guide li {
+	font-family: 'Montserrat Subrayada', sans-serif;
+	list-style: none;
+}
+
+
+footer {
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	font-weight: 200;
+	text-align: center;
+
+	},
+}
